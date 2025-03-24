@@ -1,6 +1,7 @@
-fastapi == 0.115
+fastapi == 0.115.12
 sqlalchemy == 2.0.39
 starlette == 0.46.1
 pydantic == 2.10.6
 uvicorn == 0.34.0
 gunicorn == 23.0.0
+typing == 3.7.4.3
